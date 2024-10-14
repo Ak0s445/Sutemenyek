@@ -17,4 +17,21 @@ body{
     font-weight: 400;
     font-style: normal;
 }
+.container{
+    width:600px;
+    height: 600px;
+    background-color: bisque;
+    margin: 200px auto;
+    position: relative;
+}
+.box{
+    height: 50px;
+    background-color:pink ;
+    position:sticky;
+    top: 20px;
+    left: 50px;
+    bottom: 20px;
+    left:0;
+    right: 0;
 
+}
